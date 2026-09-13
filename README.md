@@ -1,1 +1,1 @@
-# plansurf.Notes
+# plansurf.notes
